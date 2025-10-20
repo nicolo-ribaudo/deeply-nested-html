@@ -1,3 +1,5 @@
+(Firefox/Chrome vs Safari)
+
 Firefox:
 ```
 Nesting depth: 513
