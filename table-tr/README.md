@@ -1,5 +1,12 @@
 (Firefox vs Chrome/Safari)
 
+Input (with 1 nesting level available):
+```
+<table>
+  <tr>
+    <td>
+```
+
 Firefox:
 ```
 <table></table>

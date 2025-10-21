@@ -1,5 +1,11 @@
 (all match)
 
+Input (with 1 nesting level available):
+```
+<table>
+  <tbody>
+```
+
 Firefox:
 ```
 <table></table>
